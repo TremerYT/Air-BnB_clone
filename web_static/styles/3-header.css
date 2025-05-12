@@ -1,0 +1,9 @@
+header {
+    background-image: url('../images/holberton_logo.jpg');
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    background-color: #fff;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
